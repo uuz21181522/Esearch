@@ -1,0 +1,40 @@
+2024-09-20 09:48:03.914 [New I/O server worker #1-24] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:48:03.915 [New I/O server worker #1-25] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:48:03.927 [New I/O server worker #1-25] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:48:03.927 [New I/O server worker #1-24] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:48:03.931 [New I/O server worker #1-26] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:48:03.931 [New I/O server worker #1-26] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:48:03.954 [New I/O server worker #1-27] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:48:03.954 [New I/O server worker #1-27] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:49:59.598 [New I/O server worker #1-28] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:49:59.598 [New I/O server worker #1-28] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:49:59.965 [New I/O server worker #1-29] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:49:59.965 [New I/O server worker #1-29] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:50:00.106 [New I/O server worker #1-30] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:50:00.106 [New I/O server worker #1-30] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:50:00.111 [New I/O server worker #1-31] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:50:00.111 [New I/O server worker #1-31] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:50:00.112 [New I/O server worker #1-32] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:50:00.112 [New I/O server worker #1-32] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:50:00.113 [New I/O server worker #1-33] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:50:00.113 [New I/O server worker #1-33] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:50:00.131 [New I/O server worker #1-34] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:50:00.131 [New I/O server worker #1-34] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:50:00.233 [New I/O server worker #1-35] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:50:00.233 [New I/O server worker #1-35] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:53:50.931 [New I/O server worker #1-36] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:53:50.932 [New I/O server worker #1-36] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:53:51.047 [New I/O server worker #1-37] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:53:51.047 [New I/O server worker #1-37] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:53:51.188 [New I/O server worker #1-38] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:53:51.188 [New I/O server worker #1-38] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:53:51.265 [New I/O server worker #1-39] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:53:51.266 [New I/O server worker #1-39] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:53:51.292 [New I/O server worker #1-40] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:53:51.292 [New I/O server worker #1-40] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:53:51.303 [New I/O server worker #1-41] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:53:51.303 [New I/O server worker #1-41] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:53:51.304 [New I/O server worker #1-42] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:53:51.304 [New I/O server worker #1-42] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$
+2024-09-20 09:53:51.312 [New I/O server worker #1-43] INFO  c.a.otter.canal.instance.core.AbstractCanalInstance - subscribe filter change to .*\..*
+2024-09-20 09:53:51.313 [New I/O server worker #1-43] WARN  c.a.o.canal.parse.inbound.mysql.dbsync.LogEventConvert - --> init table filter : ^.*\..*$

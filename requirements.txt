@@ -1,0 +1,8 @@
+FlagEmbedding
+peft
+flask
+tqdm
+pymysql
+meilisearch
+canal-python
+mysql-connector-python

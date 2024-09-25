@@ -1,0 +1,4 @@
+I:\esearch\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+I:\esearch\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+I:\esearch\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+I:\esearch\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache

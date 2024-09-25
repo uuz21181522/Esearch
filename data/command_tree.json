@@ -1,0 +1,1784 @@
+[
+    {
+        "id": 37,
+        "gameplayname": "任务",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 38,
+        "gameplayname": "六合",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 39,
+        "gameplayname": "其他",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 40,
+        "gameplayname": "副本",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 41,
+        "gameplayname": "加buff",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 42,
+        "gameplayname": "包裹锦囊",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 43,
+        "gameplayname": "场景",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 44,
+        "gameplayname": "封印",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 45,
+        "gameplayname": "帮会势力",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 46,
+        "gameplayname": "常用指令",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 47,
+        "gameplayname": "战斗PK相关",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 48,
+        "gameplayname": "排行榜",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 49,
+        "gameplayname": "搞装备",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 50,
+        "gameplayname": "服务器相关",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 52,
+        "gameplayname": "生辰纲",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 53,
+        "gameplayname": "神侯令震关东",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 54,
+        "gameplayname": "神州奇侠",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 55,
+        "gameplayname": "科举",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 56,
+        "gameplayname": "胜者为王",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 57,
+        "gameplayname": "藏宝图",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 62,
+        "gameplayname": "雄图霸业弹指间",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 63,
+        "gameplayname": "落枫山庄",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 64,
+        "gameplayname": "宣和宝图",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 70,
+        "gameplayname": "混江湖",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 71,
+        "gameplayname": "活动",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 73,
+        "gameplayname": "PK掉级",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 76,
+        "gameplayname": "玩法指令 筱筱",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 79,
+        "gameplayname": "投放相关_lyq",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 81,
+        "gameplayname": "Demo（CWW，求别覆盖）",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 82,
+        "gameplayname": "策划测试__Fyq",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 83,
+        "gameplayname": "缘起",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 84,
+        "gameplayname": "App",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 85,
+        "gameplayname": "庄园",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 87,
+        "gameplayname": "外观测试",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 88,
+        "gameplayname": "楹联争魁",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 89,
+        "gameplayname": "青楼经营",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 90,
+        "gameplayname": "昆常用指令",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 91,
+        "gameplayname": "迷天卷土",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 92,
+        "gameplayname": "生活技能",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 93,
+        "gameplayname": "帮会宣战",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 94,
+        "gameplayname": "神州奇侠gcx",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 95,
+        "gameplayname": "水啸钱塘",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 98,
+        "gameplayname": "玩法相关cody",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 99,
+        "gameplayname": "帮会",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 101,
+        "gameplayname": "论武",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 103,
+        "gameplayname": "六合",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 104,
+        "gameplayname": "包裹锦囊",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 105,
+        "gameplayname": "搞装备",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 106,
+        "gameplayname": "科举",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 107,
+        "gameplayname": "外观测试",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 109,
+        "gameplayname": "帮会势力gcx",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 110,
+        "gameplayname": "遇见",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 115,
+        "gameplayname": "试剑天下1",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 116,
+        "gameplayname": "传送到各处",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 118,
+        "gameplayname": "FPC相关",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 119,
+        "gameplayname": "开服活动防沉迷",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 120,
+        "gameplayname": "遇见",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 121,
+        "gameplayname": "常用",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 123,
+        "gameplayname": "预警",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 124,
+        "gameplayname": "杰宝解谜地点",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 125,
+        "gameplayname": "混江湖新",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 128,
+        "gameplayname": "师徒",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 130,
+        "gameplayname": "流派首席大弟子",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 131,
+        "gameplayname": "比武大会",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 132,
+        "gameplayname": "红尘逍遥剧情党",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 134,
+        "gameplayname": "卧龙岭之战-LYL",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 135,
+        "gameplayname": "结婚",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 136,
+        "gameplayname": "删除角色",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 137,
+        "gameplayname": "伏羲币挖矿-LYL",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 139,
+        "gameplayname": "LYL指令记录（杂）",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 140,
+        "gameplayname": "帮会综合竞赛",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 142,
+        "gameplayname": "合服",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 143,
+        "gameplayname": "LYL指令记录（杂）",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 144,
+        "gameplayname": "分线",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 145,
+        "gameplayname": "背包锁",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 146,
+        "gameplayname": "燕云台",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 150,
+        "gameplayname": "曲水流觞-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 151,
+        "gameplayname": "试剑天下New",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 152,
+        "gameplayname": "玩家商店",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 153,
+        "gameplayname": "武器特效",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 154,
+        "gameplayname": "登录相关",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 155,
+        "gameplayname": "百炼装备升级",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 157,
+        "gameplayname": "师徒-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 163,
+        "gameplayname": "服务器-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 164,
+        "gameplayname": "zz指令",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 165,
+        "gameplayname": "MY指令",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 167,
+        "gameplayname": "小宠物-LYL",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 168,
+        "gameplayname": "等级直升叮号-LYL",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 169,
+        "gameplayname": "论战江湖",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 171,
+        "gameplayname": "技能交子-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 174,
+        "gameplayname": "常用指令-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 176,
+        "gameplayname": "节日领奖-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 177,
+        "gameplayname": "约会本-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 178,
+        "gameplayname": "全服限量-zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 180,
+        "gameplayname": "结婚-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 182,
+        "gameplayname": "冬至活动-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 183,
+        "gameplayname": "珍藏指令-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 185,
+        "gameplayname": "稀有词条商店-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 186,
+        "gameplayname": "任务副本-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 187,
+        "gameplayname": "连云寨押镖-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 188,
+        "gameplayname": "春节信件-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 189,
+        "gameplayname": "春节氛围-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 191,
+        "gameplayname": "元宵氛围-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 192,
+        "gameplayname": "转职-zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 193,
+        "gameplayname": "氛围检查指令集-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 194,
+        "gameplayname": "自走棋-LYL",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 196,
+        "gameplayname": "江湖手记-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 200,
+        "gameplayname": "斗地主大赛",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 202,
+        "gameplayname": "旷世奇遇-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 204,
+        "gameplayname": "英雄救美",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 205,
+        "gameplayname": "科举最新指令集合",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 206,
+        "gameplayname": "奇遇-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 207,
+        "gameplayname": "跨服比武大会2",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 208,
+        "gameplayname": "朋友圈",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 209,
+        "gameplayname": "五一玩法",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 210,
+        "gameplayname": "藏宝阁",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 211,
+        "gameplayname": "经脉系统",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 212,
+        "gameplayname": "八卦大事件-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 216,
+        "gameplayname": "在线领交子-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 221,
+        "gameplayname": "团队约战（开房）",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 225,
+        "gameplayname": "一键重锻-ZR",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 226,
+        "gameplayname": "庄园粉丝榜",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 227,
+        "gameplayname": "流派挑战-LYL",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 228,
+        "gameplayname": "庄园社区",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 250,
+        "gameplayname": "锦鲤池-LYL",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 251,
+        "gameplayname": "双人植树",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 253,
+        "gameplayname": "周年庆充值-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 254,
+        "gameplayname": "江湖身份-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 255,
+        "gameplayname": "伏羲通宝抽奖",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 256,
+        "gameplayname": "万里传音-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 260,
+        "gameplayname": "奇遇技能-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 262,
+        "gameplayname": "说英雄-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 263,
+        "gameplayname": "七夕任务-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 268,
+        "gameplayname": "时装外观",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 270,
+        "gameplayname": "拓印-ZR",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 271,
+        "gameplayname": "匣中",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 272,
+        "gameplayname": "北大荒",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 274,
+        "gameplayname": "转服",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 275,
+        "gameplayname": "云游戏测试__Fyq",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 277,
+        "gameplayname": "九幽再临",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 278,
+        "gameplayname": "抢凳子",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 279,
+        "gameplayname": "新副本清明-kk",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 280,
+        "gameplayname": "全服拍卖",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 281,
+        "gameplayname": "匣中十一活动",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 282,
+        "gameplayname": "一键重锻",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 283,
+        "gameplayname": "匣中压测",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 285,
+        "gameplayname": "经脉追赶",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 286,
+        "gameplayname": "玉佩",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 288,
+        "gameplayname": "跨服比武大会",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 289,
+        "gameplayname": "第三届跨服比武",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 290,
+        "gameplayname": "论战江湖第二版",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 291,
+        "gameplayname": "重修",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 292,
+        "gameplayname": "武学遗迹寻宝",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 293,
+        "gameplayname": "新流派首席大弟子",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 296,
+        "gameplayname": "摇摇乐竞速",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 297,
+        "gameplayname": "兵魂系统-ZR",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 298,
+        "gameplayname": "神兵世界事件",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 305,
+        "gameplayname": "客服",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 307,
+        "gameplayname": "星座运势",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 308,
+        "gameplayname": "红叶寄情",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 309,
+        "gameplayname": "战力指引",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 312,
+        "gameplayname": "星座运势",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 314,
+        "gameplayname": "严选活动",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 316,
+        "gameplayname": "多开提示",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 317,
+        "gameplayname": "匣中-cwy",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 318,
+        "gameplayname": "捏身体",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 319,
+        "gameplayname": "客服",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 320,
+        "gameplayname": "赛龙舟",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 324,
+        "gameplayname": "cwy",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 325,
+        "gameplayname": "大宋佳人全服雕像",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 326,
+        "gameplayname": "第三套基础脸",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 329,
+        "gameplayname": "通用指令",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 330,
+        "gameplayname": "种花",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 331,
+        "gameplayname": "好友赠送",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 332,
+        "gameplayname": "匣中双人放鞭炮",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 333,
+        "gameplayname": "红包",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 335,
+        "gameplayname": "福临大宋",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 336,
+        "gameplayname": "玩法补领-cwy",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 339,
+        "gameplayname": "惊雪瑶城",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 340,
+        "gameplayname": "新神州奇侠",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 341,
+        "gameplayname": "章立常用指令",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 342,
+        "gameplayname": "成名赏",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 343,
+        "gameplayname": "清明活动，春湖乐斗-zl",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 344,
+        "gameplayname": "淘金热",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 345,
+        "gameplayname": "橙武",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 346,
+        "gameplayname": "天赋系统",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 347,
+        "gameplayname": "合服补领",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 349,
+        "gameplayname": "玄机-lyl",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 350,
+        "gameplayname": "势力",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 351,
+        "gameplayname": "跨服押镖-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 352,
+        "gameplayname": "帮会檄文-zl",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 353,
+        "gameplayname": "明星赛相关",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 354,
+        "gameplayname": "庄园社区双人地皮",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 356,
+        "gameplayname": "迷天幻境-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 358,
+        "gameplayname": "新人任务-zl",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 359,
+        "gameplayname": "patch-hll",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 360,
+        "gameplayname": "新藏宝图",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 361,
+        "gameplayname": "znq2",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 362,
+        "gameplayname": "mbr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 363,
+        "gameplayname": "赛龙舟新-zl",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 364,
+        "gameplayname": "情缘转移",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 365,
+        "gameplayname": "装备相关LYL",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 366,
+        "gameplayname": "流星蝴蝶剑联动",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 367,
+        "gameplayname": "帮会相关活动交接-zl",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 368,
+        "gameplayname": "成就(新)--zl",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 369,
+        "gameplayname": "手游常用指令集zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 370,
+        "gameplayname": "手游论武-zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 371,
+        "gameplayname": "手游常用指令集",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 372,
+        "gameplayname": "手游NPC商店-zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 373,
+        "gameplayname": "手游装备-zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 374,
+        "gameplayname": "发自用指令集-zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 378,
+        "gameplayname": "手游伙伴指令集-zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 379,
+        "gameplayname": "手游青崖书指令集-zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 380,
+        "gameplayname": "手游庄园指令-zz",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 381,
+        "gameplayname": "手游常用指令集zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 382,
+        "gameplayname": "简单副本多人机制测试指令ss",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 383,
+        "gameplayname": "手游生活技能",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 385,
+        "gameplayname": "张臻",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 386,
+        "gameplayname": "手游奇遇-hm",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 387,
+        "gameplayname": "身份",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 390,
+        "gameplayname": "悬赏相关指令集-新版",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 391,
+        "gameplayname": "手游-红包指令集",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 392,
+        "gameplayname": "手游常用指令yzd",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 393,
+        "gameplayname": "帮会联赛",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 394,
+        "gameplayname": "场景内npc、椅子等传送测试",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 396,
+        "gameplayname": "常用指令zf",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 397,
+        "gameplayname": "任务gyy",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 398,
+        "gameplayname": "xlx",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 400,
+        "gameplayname": "手游任务--hm",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 401,
+        "gameplayname": "荒野求生-zhn",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 402,
+        "gameplayname": "副本搬砖",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 403,
+        "gameplayname": "版权公证指令集",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 417,
+        "gameplayname": "帮会领地战",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 418,
+        "gameplayname": "手游-英雄救美",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 419,
+        "gameplayname": "比武招亲",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 420,
+        "gameplayname": "dp",
+        "parent": "新玩法",
+        "type": "file"
+    },
+    {
+        "id": 422,
+        "gameplayname": "休闲任务指令集",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 423,
+        "gameplayname": "悬赏",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 424,
+        "gameplayname": "辽军与缉盗",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 426,
+        "gameplayname": "剑梦临渊",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 427,
+        "gameplayname": "热更相关",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 428,
+        "gameplayname": "yxr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 430,
+        "gameplayname": "手游探索",
+        "parent": "新玩法",
+        "type": "file"
+    },
+    {
+        "id": 432,
+        "gameplayname": "1gyc",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 435,
+        "gameplayname": "跨服",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 436,
+        "gameplayname": "宣战",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 437,
+        "gameplayname": "拍卖",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 438,
+        "gameplayname": "时装测试",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 439,
+        "gameplayname": "好感",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 440,
+        "gameplayname": "玩法测试",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 441,
+        "gameplayname": "比武大会-手游-yd",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 443,
+        "gameplayname": "常用指令-dp",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 445,
+        "gameplayname": "",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 446,
+        "gameplayname": "第三方接口统计",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 448,
+        "gameplayname": "寄售-zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 449,
+        "gameplayname": "手游兼容性测试用指令",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 450,
+        "gameplayname": "赛季赛年-zr",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 451,
+        "gameplayname": "ZRH",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 452,
+        "gameplayname": "考古活动用",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 453,
+        "gameplayname": "手游压测造数据新-pyn",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 454,
+        "gameplayname": "水啸钱塘pyn",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 455,
+        "gameplayname": "激情战斗",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 456,
+        "gameplayname": "常用FF",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 457,
+        "gameplayname": "月卡",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 459,
+        "gameplayname": "玩法FF",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 460,
+        "gameplayname": "手游转职",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 461,
+        "gameplayname": "镜天阁",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 462,
+        "gameplayname": "手游-帮会宣战指令集",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 463,
+        "gameplayname": "夺旗FF",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 464,
+        "gameplayname": "lx常用集合",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 465,
+        "gameplayname": "by常用",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 466,
+        "gameplayname": "常用",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 467,
+        "gameplayname": "手游压测",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 468,
+        "gameplayname": "手游合服用",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 469,
+        "gameplayname": "独珍",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 470,
+        "gameplayname": "内功",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 471,
+        "gameplayname": "烹饪活动",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 473,
+        "gameplayname": "帮会活动常用指令zf",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 474,
+        "gameplayname": "cxh",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 477,
+        "gameplayname": "UGC爬塔匹配用指令",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 478,
+        "gameplayname": "雀隐重楼",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 479,
+        "gameplayname": "手游机甲",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 481,
+        "gameplayname": "ly严选",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 482,
+        "gameplayname": "大秘境-ly",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 483,
+        "gameplayname": "宝库-ly",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 484,
+        "gameplayname": "密码锁",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 485,
+        "gameplayname": "战斗测试",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 486,
+        "gameplayname": "永夜星都-ly",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 487,
+        "gameplayname": "组队常用",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 488,
+        "gameplayname": "天机迷城",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 489,
+        "gameplayname": "技能禁用",
+        "parent": "公有命令",
+        "type": "file"
+    },
+    {
+        "id": 491,
+        "gameplayname": "逆水寒手游",
+        "parent": "公有命令",
+        "type": "folder"
+    },
+    {
+        "id": 492,
+        "gameplayname": "手游UI常用命令",
+        "parent": "逆水寒手游",
+        "type": "file"
+    },
+    {
+        "id": 493,
+        "gameplayname": "手游产业常用命令",
+        "parent": "逆水寒手游",
+        "type": "file"
+    },
+    {
+        "id": 494,
+        "gameplayname": "副职",
+        "parent": "新玩法",
+        "type": "file"
+    },
+    {
+        "id": 495,
+        "gameplayname": "手游客户端常用命令",
+        "parent": "逆水寒手游",
+        "type": "file"
+    },
+    {
+        "id": 496,
+        "gameplayname": "手游副职",
+        "parent": "公有命令",
+        "type": "file"
+    }
+]

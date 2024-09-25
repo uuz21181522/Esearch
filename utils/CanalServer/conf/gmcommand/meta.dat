@@ -1,0 +1,1 @@
+{"clientDatas":[{"clientIdentity":{"clientId":1001,"destination":"gmcommand","filter":".*\\..*"},"cursor":{"identity":{"slaveId":-1,"sourceAddress":{"address":"127.0.0.1","port":3306}},"postion":{"gtid":"","included":false,"journalName":"binlog.000002","position":23743,"serverId":1,"timestamp":1725876709000}}}],"destination":"gmcommand"}
