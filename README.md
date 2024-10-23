@@ -4,14 +4,14 @@
 我们编写了两个应用Demo，以验证此框架的有效性：
 ## 电影查询
    支持输入错误纠正，模糊检索，实时搜索
-   QPS性能2000+
+   单节点QPS性能2000+
 ![image](https://github.com/user-attachments/assets/a3b354b5-7170-49fc-b862-7a57baaf9d0b)
 
    
 ## LUA代码检索
    支持对 Lua 语言指令的全文检索和向量检索，有效实现精准及模糊查询功能
    此外，我们进一步开发了基于 Retrieval-Augmented Generation (RAG) 的 AI 代码自动补全功能，以提高服务端 Lua 开发的效率与准确性。
-   QPS性能1000+
+   单节点QPS性能1000+
 ![图片1](https://github.com/user-attachments/assets/05645bc7-bd0b-4da6-a71f-7f2717d5b949)
 
 # 流程图：
